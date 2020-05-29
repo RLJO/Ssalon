@@ -1,0 +1,4 @@
+[submodule "RL-OtherApps/CybroAddons"]
+	path = RL-OtherApps/CybroAddons
+	url = git@github.com:RL-OtherApps/CybroAddons.git
+	branch = 13.0
