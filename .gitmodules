@@ -2,3 +2,8 @@
 	path = RL-OtherApps/CybroAddons
 	url = git@github.com:RL-OtherApps/CybroAddons.git
 	branch = 13.0
+
+[submodule "fakturacion/theme_common"]
+	path = fakturacion/theme_common
+	url = git@github.com:fakturacion/theme_common.git
+	branch = 13.0
