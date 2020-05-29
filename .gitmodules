@@ -12,3 +12,8 @@
 	path = fakturacion/theme_monglia
 	url = git@github.com:fakturacion/theme_monglia.git
 	branch = 13.0
+
+[submodule "fakturacion/theme_vehicle"]
+	path = fakturacion/theme_vehicle
+	url = git@github.com:fakturacion/theme_vehicle.git
+	branch = 13.0
