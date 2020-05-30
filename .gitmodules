@@ -2,3 +2,8 @@
 	path = RL-OtherApps/CybroAddons
 	url = git@github.com:RL-OtherApps/CybroAddons.git
 	branch = 13.0
+
+[submodule "OCA/hr-attendance"]
+	path = OCA/hr-attendance
+	url = git@github.com:OCA/hr-attendance.git
+	branch = 13.0
