@@ -27,3 +27,8 @@
 	path = RL-OtherApps/misc-addons
 	url = git@github.com:RL-OtherApps/misc-addons.git
 	branch = 13.0
+
+[submodule "ebakir12/londonmosque"]
+	path = ebakir12/londonmosque
+	url = git@github.com:ebakir12/londonmosque.git
+	branch = master
