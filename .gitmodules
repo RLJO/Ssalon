@@ -22,3 +22,8 @@
 	path = RL-OtherApps/website-addons
 	url = git@github.com:RL-OtherApps/website-addons.git
 	branch = 13.0
+
+[submodule "RL-OtherApps/misc-addons"]
+	path = RL-OtherApps/misc-addons
+	url = git@github.com:RL-OtherApps/misc-addons.git
+	branch = 13.0
