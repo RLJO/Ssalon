@@ -17,3 +17,8 @@
 	path = fakturacion/theme_vehicle
 	url = git@github.com:fakturacion/theme_vehicle.git
 	branch = 13.0
+
+[submodule "RL-OtherApps/website-addons"]
+	path = RL-OtherApps/website-addons
+	url = git@github.com:RL-OtherApps/website-addons.git
+	branch = 13.0
