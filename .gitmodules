@@ -1,0 +1,39 @@
+[submodule "RL-OtherApps/CybroAddons"]
+	path = RL-OtherApps/CybroAddons
+	url = git@github.com:RL-OtherApps/CybroAddons.git
+	branch = 13.0
+
+[submodule "fakturacion/theme_common"]
+	path = fakturacion/theme_common
+	url = git@github.com:fakturacion/theme_common.git
+	branch = 13.0
+
+[submodule "fakturacion/theme_monglia"]
+	path = fakturacion/theme_monglia
+	url = git@github.com:fakturacion/theme_monglia.git
+	branch = 13.0
+
+[submodule "fakturacion/theme_vehicle"]
+	path = fakturacion/theme_vehicle
+	url = git@github.com:fakturacion/theme_vehicle.git
+	branch = 13.0
+
+[submodule "RL-OtherApps/website-addons"]
+	path = RL-OtherApps/website-addons
+	url = git@github.com:RL-OtherApps/website-addons.git
+	branch = 13.0
+
+[submodule "RL-OtherApps/misc-addons"]
+	path = RL-OtherApps/misc-addons
+	url = git@github.com:RL-OtherApps/misc-addons.git
+	branch = 13.0
+
+[submodule "ebakir12/londonmosque"]
+	path = ebakir12/londonmosque
+	url = git@github.com:ebakir12/londonmosque.git
+	branch = master
+
+[submodule "WithPrice/odoo_theme"]
+	path = WithPrice/odoo_theme
+	url = git@github.com:WithPrice/odoo_theme.git
+	branch = 13.0
