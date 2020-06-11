@@ -57,3 +57,8 @@
 	path = OCA/account-invoicing
 	url = git@github.com:OCA/account-invoicing.git
 	branch = 13.0
+
+[submodule "CybroOdoo/CybroAddons"]
+	path = CybroOdoo/CybroAddons
+	url = git@github.com:CybroOdoo/CybroAddons.git
+	branch = 13.0
