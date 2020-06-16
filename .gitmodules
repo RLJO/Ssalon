@@ -72,3 +72,8 @@
 	path = OCA/website-cms
 	url = git@github.com:OCA/website-cms.git
 	branch = 13.0
+
+[submodule "OCA/webkit-tools"]
+	path = OCA/webkit-tools
+	url = git@github.com:OCA/webkit-tools.git
+	branch = 13.0
