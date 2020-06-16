@@ -77,3 +77,8 @@
 	path = OCA/webkit-tools
 	url = git@github.com:OCA/webkit-tools.git
 	branch = 13.0
+
+[submodule "RLJO/133"]
+	path = RLJO/133
+	url = git@github.com:RLJO/133.git
+	branch = app-ips_html_form_builder
