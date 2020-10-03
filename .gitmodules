@@ -2,3 +2,8 @@
 	path = WithPrice/EMS
 	url = git@github.com:WithPrice/EMS.git
 	branch = master
+
+[submodule "WithPrice/AT-PM"]
+	path = WithPrice/AT-PM
+	url = git@github.com:WithPrice/AT-PM.git
+	branch = sr_pdc_management
