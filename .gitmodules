@@ -1,0 +1,4 @@
+[submodule "WithPrice/EMS"]
+	path = WithPrice/EMS
+	url = git@github.com:WithPrice/EMS.git
+	branch = master
